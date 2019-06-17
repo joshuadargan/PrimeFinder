@@ -1,6 +1,6 @@
 import java.math.BigInteger;
 
-public class TestPrimes
+class TestPrimes
 {
     public static void main(String[] args)
     {
